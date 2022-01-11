@@ -1,6 +1,6 @@
 <script>
 if(window.location.hostname === "aprakosonline.readthedocs.io"){
-window.location.href='../_README'
+window.location.href='../start'
 } else {
 console.log('-=-=-= Вас приветствует СВЕТОФОР-РАЗРАБОТКИ =-=-=-')
 }
