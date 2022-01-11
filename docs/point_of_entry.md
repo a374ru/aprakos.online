@@ -1,0 +1,23 @@
+<script>
+if(window.location.hostname === "aprakosonline.readthedocs.io"){
+window.location.href='../_README'
+} else {
+console.log('-=-=-= Вас приветствует СВЕТОФОР-РАЗРАБОТКИ =-=-=-')
+}
+</script>
+
+Рабочая версия проекта <span style="color: #2C87BF;">[APRAKOS.ONLINE]()</span>
+ 
+# Руководитель: **Кортуков Игорь**.
+<br>
+
+---
+
+<span style="color: #7C9655;">**Необходимые условия для начала…**
+
+1. ### Цель проекта:  [подробнее здесь](./target.md).
+2. ### Начало [здесь](./_README.md).
+3. ### Текущая задача [здесь](./task.md).
+
+<br><br>
+![img](https://1.bp.blogspot.com/-wFaMiAHx-Y8/YG3EaVrCDFI/AAAAAAAAGZY/IYjO6zFHW5wjj4I_HrssCIShQpMxWMHlgCLcBGAsYHQ/s800/IMG_2094.PNG)
