@@ -1,0 +1,4 @@
+# a374ru.github.io/aprakos.ru
+User-agent: *
+Disallow: /
+
