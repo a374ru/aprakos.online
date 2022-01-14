@@ -21,7 +21,8 @@
 }
 
 .ystm-h77 {
-	min-height: 67px;
-	align-content: center;
+	min-height: 77px;
+	/* Нижнее свойство ломает свойства Bootstrap */
+	/* align-content: center; */
 	font-size: 1.5em;
 }
