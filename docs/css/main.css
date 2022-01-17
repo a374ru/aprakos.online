@@ -44,9 +44,9 @@
 	--fontIrmUCS-var: Irmologion;
 	--font-var: Fontics;
 	--fontEvng-var: Evangeliecs;
-	--sizeFontEvngl-var: 1.7em;
-	--sizeFontEvnglrus-var: 1.3em;
-	--sizeFontEvnglglg-var: 1.3em;
+	--sizeFontEvngl-var: 1.5em;
+	--sizeFontEvnglrus-var: 1.1em;
+	--sizeFontEvnglglg-var: 1.1em;
 }
 
 .csl {
@@ -56,15 +56,15 @@
 	/* color: #7e4500; */
 }
 
-.rus{
+.rus {
 	font-size: var(--sizeFontEvnglrus-var);
 }
 
 .glg {
-	font-size: var(--sizeFontEvnglglg-var) 
+	font-size: var(--sizeFontEvnglglg-var)
 }
 
-.kinovar{
+.kinovar {
 	color: #E34234;
 }
 
@@ -105,4 +105,12 @@
 	font-size: 1.5em;
 	min-height: 88px;
 
+}
+
+/* 
+for blogspot.com
+hide top-navbar
+*/
+#navbar-iframe-container {
+	display: none;
 }
