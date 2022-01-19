@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "aprakos-online": {
+      "hosting": {
+        "aprakos-online": [
+          "aprakos-online"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "aprakos-online"
+  }
+}

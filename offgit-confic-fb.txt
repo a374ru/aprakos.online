@@ -1,0 +1,8 @@
+
+  apiKey: "AIzaSyBfJ5VL4xHL0zNRFxfzs481KdF6tjU0PMQ",
+  authDomain: "aprakos-online.firebaseapp.com",
+  projectId: "aprakos-online",
+  storageBucket: "aprakos-online.appspot.com",
+  messagingSenderId: "635356691455",
+  appId: "1:635356691455:web:94b209b9bf5f5b269585ca",
+  measurementId: "G-MQ6CVCCPH8"
